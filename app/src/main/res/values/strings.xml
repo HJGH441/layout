@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LinearLayoutActivity</string>
+    <string name="dame_un_segundo_numero">Dame un segundo Numero</string>
+    <string name="dame_un_numero">Dame un Numero</string>
+    <string name="suma">Suma</string>
+    <string name="resta">Resta</string>
+    <string name="Dividir" />
+    <string name="Multiplicar" />
+    <string name="multi">Multi</string>
+    <string name="divi">Divi</string>
+</resources>
